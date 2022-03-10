@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Try a set of 10 random questions fetched from Open Trivia DB in this Quiz built with React and score as much points as you can. You win 1 point per good answer but make 5 points when picking the good answer from the start!",
   "keywords": [
+    "react",
     "typescript",
-    "quiz",
-    "react"
+    "quiz"
   ],
   "main": "src/index.js",
   "dependencies": {

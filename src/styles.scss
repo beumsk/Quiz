@@ -134,3 +134,14 @@ main {
     }
   }
 }
+
+footer p {
+  font-size: 0.75rem;
+  padding: 10px 0;
+  a {
+    color: white;
+    &:hover {
+      color: #ddd;
+    }
+  }
+}
